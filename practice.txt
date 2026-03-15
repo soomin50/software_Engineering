@@ -1,1 +1,5 @@
 Software Engineering practice file
+
+1. Git commit practice
+
+2. Branch practice
