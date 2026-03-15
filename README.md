@@ -7,3 +7,5 @@ Git
 git branch
 
 git merge
+
+git issue
