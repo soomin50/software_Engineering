@@ -5,9 +5,8 @@
 
 - [Project-plan](doc/project-plan.md)
 
+- [Project-requirements](doc/project_requirements.md)
 
-## 설명
-- 요구사항 명세서를 바탕으로 프로젝트 정의서와 대상 시스템 품질 요소 추정 내용을 정리한 문서
 
 ## 빌드 방법
 - 본 과제는 소스 코드 실행이 아닌 문서 제출 과제입니다.
