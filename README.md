@@ -9,6 +9,8 @@
 
 - [Project-requirements-analysis](doc/project_requirements_analysis.md)
 
+- [Project-test-report](doc/project_test_report.md)
+
 
 ## 빌드 방법
 - 본 과제는 소스 코드 실행이 아닌 문서 제출 과제입니다.
